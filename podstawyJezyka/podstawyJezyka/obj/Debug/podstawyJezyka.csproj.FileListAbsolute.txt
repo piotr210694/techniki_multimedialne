@@ -1,0 +1,6 @@
+C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\bin\Debug\podstawyJezyka.exe.config
+C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\bin\Debug\podstawyJezyka.exe
+C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\bin\Debug\podstawyJezyka.pdb
+C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.exe
+C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.pdb
