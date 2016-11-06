@@ -4,3 +4,9 @@ C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podsta
 C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.csprojResolveAssemblyReference.cache
 C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.exe
 C:\Users\Piotrek\Desktop\Uczelnia\st2_rok1_sem1\projekt_multimedia\visual\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.pdb
+D:\git_proj\techniki_multimedialne\podstawyJezyka\podstawyJezyka\bin\Debug\podstawyJezyka.exe.config
+D:\git_proj\techniki_multimedialne\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.exe
+D:\git_proj\techniki_multimedialne\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.pdb
+D:\git_proj\techniki_multimedialne\podstawyJezyka\podstawyJezyka\bin\Debug\podstawyJezyka.exe
+D:\git_proj\techniki_multimedialne\podstawyJezyka\podstawyJezyka\bin\Debug\podstawyJezyka.pdb
+D:\git_proj\techniki_multimedialne\podstawyJezyka\podstawyJezyka\obj\Debug\podstawyJezyka.csprojResolveAssemblyReference.cache

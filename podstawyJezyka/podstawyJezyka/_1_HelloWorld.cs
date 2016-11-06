@@ -11,6 +11,7 @@ namespace podstawyJezyka
         public _1_HelloWorld()
         {
             Console.WriteLine("Hello World"); //wspomniec o Console.ReadKey();
+            //to jest komentarz
         }
     }
 }

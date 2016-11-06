@@ -12,6 +12,14 @@ namespace podstawyJezyka
         {
             Console.Write(Environment.NewLine);
 
+            string imie1 = "Marek";
+            Console.WriteLine("Cześć " + imie1 + "!");
+            Console.WriteLine("Cześć {0}!", imie1);
+
+            int wiek = 20;
+            Console.WriteLine("Cześć! Jestem {0}. Mam {1} lat. Za 5 lat będę miał {2} lat.", imie1, wiek, wiek + 5);
+
+
             string imie;
             string kierunek_studiow;
             string tmp;

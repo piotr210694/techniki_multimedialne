@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_HelloWorld.cs" />
+    <Compile Include="_1_HelloWorld.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="_2_ConsoleWriteLine.cs" />
+    <Compile Include="_2TypyZmiennychIRzutowanie.cs" />
     <Compile Include="_3_readFromConsole.cs" />
     <Compile Include="_4_comments.cs" />
     <Compile Include="_5_loopFor.cs" />
