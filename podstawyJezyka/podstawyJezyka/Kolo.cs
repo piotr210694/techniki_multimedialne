@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace podstawyJezyka
 {
-    class _1_HelloWorld
+    class Kolo
     {
-        public _1_HelloWorld()
+        public double obwodKola(double r, double pi = 3.14)
         {
-            Console.WriteLine("Hello World"); //wspomniec o Console.ReadKey();
-            //to jest komentarz
+            return 2 * pi * r;
         }
     }
 }
